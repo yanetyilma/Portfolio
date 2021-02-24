@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/titlescreen.unity
+    guid: c8a35d976ba1b1244a2db4eed652be99
+  - enabled: 1
+    path: Assets/Scenes/instructions.unity
+    guid: fe10648579159b14285d127ad3885a60
+  - enabled: 1
+    path: Assets/Scenes/soundtrack.unity
+    guid: 1d6b238998a12ad438107f696e8273b3
+  - enabled: 1
+    path: Assets/Scenes/chooseplayer.unity
+    guid: e772637a61fc526409ae71a3a80c6d71
+  - enabled: 1
+    path: Assets/Scenes/openingsceneMIKO.unity
+    guid: 4e5d1f0cba4a32946b51f2ae3983fa93
+  - enabled: 1
+    path: Assets/Scenes/openingscene2MIKO.unity
+    guid: 81018a4ae5bd7d347b141c0503302ebc
+  - enabled: 1
+    path: Assets/Scenes/openingscene3MIKO.unity
+    guid: 1a59f9904bee82245a2dbc26743d13e3
+  - enabled: 1
+    path: Assets/Scenes/openingsceneSUKI.unity
+    guid: 6e8b36ed1f76c2440825635948498ebd
+  - enabled: 1
+    path: Assets/Scenes/openingscene2SUKI.unity
+    guid: 935a81b91e8b2904db051ee36431754f
+  - enabled: 1
+    path: Assets/Scenes/openingscene3SUKI.unity
+    guid: 532093c42e5c13847a5e1508cac36b3b
+  - enabled: 1
+    path: Assets/Scenes/playsceneMiko.unity
+    guid: 60315575e54853e47aeb7a261db38ec9
+  - enabled: 1
+    path: Assets/Scenes/Help.unity
+    guid: 2c4ad4baa5b356e4dbca848c8e545b04
+  - enabled: 1
+    path: Assets/Scenes/playsceneSuki.unity
+    guid: 54510b1898bb5d749a875661471eae3e
+  - enabled: 1
+    path: Assets/Scenes/Help2.unity
+    guid: c4c83248fa0525b4f997226bf09898f5
+  - enabled: 1
+    path: Assets/Scenes/MIKOLOSES.unity
+    guid: 863c87bba574eee41b418c63644e8f23
+  - enabled: 1
+    path: Assets/Scenes/MIKOLOSES2.unity
+    guid: 6162896fc3f306c40a87304d3ee87150
+  - enabled: 1
+    path: Assets/Scenes/MIKOWINS.unity
+    guid: 090efca06e3bc474db7030d9b6a256d5
+  - enabled: 1
+    path: Assets/Scenes/SUKILOSES.unity
+    guid: 4f85bf4ba15238540bd777b5526d607a
+  - enabled: 1
+    path: Assets/Scenes/SUKILOSES2.unity
+    guid: 7cb92fa7b6781a744a1b429a9f4dd799
+  - enabled: 1
+    path: Assets/Scenes/SUKIWINS.unity
+    guid: 72ed968cd71ebdd4da4bc696092c93d2
+  - enabled: 1
+    path: Assets/Scenes/scoreMIKOLOSES1.unity
+    guid: e5c1aaee98a779e408029e880eaf2a34
+  - enabled: 1
+    path: Assets/Scenes/scoreMIKOLOSES2.unity
+    guid: 031911e483c02ee4ab3dff28debc53db
+  - enabled: 1
+    path: Assets/Scenes/scoreMIKOWINS1.unity
+    guid: 6ad6aa54500b9d946a9195a93a91443b
+  - enabled: 1
+    path: Assets/Scenes/scoreMIKOWINS2.unity
+    guid: 9d074496630a2a1428fe731564df275a
+  - enabled: 1
+    path: Assets/Scenes/scoreSUKILOSES1.unity
+    guid: 202b568cf73f7494c971d70a80420c66
+  - enabled: 1
+    path: Assets/Scenes/scoreSUKILOSES2.unity
+    guid: 3c8c39edc5cde0244863ecccbaacb3ac
+  - enabled: 1
+    path: Assets/Scenes/scoreSUKIWINS1.unity
+    guid: 55b8cf6e4976fde43921a8381059d9f1
+  - enabled: 1
+    path: Assets/Scenes/scoreSUKIWINS2.unity
+    guid: 16d4fac47cd48984d90ed37f3b0da132
+  m_configObjects: {}
